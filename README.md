@@ -26,3 +26,7 @@ def run_python():
 * 基于Python的策略回测框架
     * https://github.com/Geek-Thomas/data-analysis
     * 组长：罗涛
+
+* 基于pytorch的疫情期间微博文本情绪识别
+    * https://github.com/thisissum/python_homework
+    * 组长：孙明宏
