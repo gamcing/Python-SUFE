@@ -7,7 +7,7 @@ def run_python():
 
 本项目用于收藏自2020年春季以来，各位同学提交的Python课程的大作业集锦，以供后人参考。
 
-感谢大家在本课程中发挥的创意、做出的努力，望大家未来活用Python这把“[军锹](https://www.bilibili.com/video/BV15x411e7i3)”，减少重复劳动，享受生命的美好。
+感谢大家在本课程中发挥的创意、做出的努力，望大家未来活用Python这把“[军锹](https://www.bilibili.com/video/BV1as411m7NW)”，减少重复劳动，享受生命的美好。
 
 ## 2020春季
 
