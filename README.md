@@ -35,3 +35,7 @@ def run_python():
     * https://github.com/thisissum/python_homework
     * Forked on https://github.com/gamcing/2020_python_homework
     * 组长：孙明宏
+* 基于xgboost的程序化交易
+    * https://github.com/zhouzongjin23333/-xgboost-
+    * Forked on https://github.com/gamcing/2020_-xgboost-
+    * 组长：周宗瑾
