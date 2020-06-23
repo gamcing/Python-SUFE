@@ -39,3 +39,7 @@ def run_python():
     * https://github.com/zhouzongjin23333/-xgboost-
     * Forked on https://github.com/gamcing/2020_-xgboost-
     * 组长：周宗瑾
+* 期权定价函数以及波动率监控Excel模板
+    * https://github.com/xiaoyuanyuanyuan/xlwings-
+    * Forked on https://github.com/gamcing/2020_xlwings-
+    * 组长：袁佳伟
